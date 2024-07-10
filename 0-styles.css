@@ -1,0 +1,27 @@
+ul {
+    display: flex;
+    color: white;
+}
+
+.icon {
+    display: inline-block;
+    background: url(0-sprite.png) no-repeat;
+}
+
+.i-html {
+    width: 285px;
+    height: 375px;
+    background-position: 0px 0px;
+}
+
+.i-css {
+    width: 285px;
+    height: 375px;
+    background-position: -285px 0px;
+}
+
+.i-js {
+    width: 285px;
+    height: 375px;
+    background-position: -570px 0px;
+}
